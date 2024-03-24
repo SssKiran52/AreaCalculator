@@ -8,8 +8,8 @@ public class App
     {
     	Scanner sc = new Scanner(System.in);
 		System.out.println("***********************************");
-		System.out.println("	  WELCOME TO");
-		System.out.println("	AREA CALCULATOR");
+		System.out.println("	   WELCOME TO");
+		System.out.println("	 AREA CALCULATOR");
 		System.out.println("***********************************");
 		System.out.println("Enter "
 								+ "\n 1. For Circle "
